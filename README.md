@@ -1,6 +1,6 @@
 # Wiki-style links in Jekyll
 
-This repository proves that Jekyll allows you to convert the code below in the HTML below:
+This repository proves that Jekyll allows Wiki-style links using just Liquid, as shown in this example:
 
 ----
 
