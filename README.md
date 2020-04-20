@@ -1,4 +1,4 @@
-# Bracket test
+# Wiki-style links in Jekyll
 
 **This repository proves that it is relatively easy to convert this:**
 
