@@ -1,4 +1,4 @@
-## Match the slug
+## 1. Match the slug
 
 **Convert this:**
 
@@ -42,9 +42,9 @@ This is a test with [Testlink 1](/testlink1) and a [Testlink 2](/testlink2) and 
 
 {{ replacedcontent | markdownify }}
 ```
-___
+&nbsp;
 
-## Match the title
+## 2. Match the title
 
 **It may be nicer and easier to match the title instead of the url, but the title is less unique, so it could lead to more errors. The code below would convert this:**
 
