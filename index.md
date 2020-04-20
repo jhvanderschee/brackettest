@@ -3,4 +3,4 @@ title: Homepage
 layout: default
 ---
 
-This is a test with [[testlink1]] and a [[testlink2]] and a [markdown link](/).
+This is a test with [[Testlink 1]] and a [[Testlink 2]] and a [Markdown link](/).
