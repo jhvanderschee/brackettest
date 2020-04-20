@@ -1,14 +1,14 @@
 # Wiki-style links in Jekyll
 
-**This repository proves that it is relatively easy to convert this:**
+This repository proves that Jekyll allows you to convert this:
 
     This is a test with [[Testlink 1]] and a [[Testlink 2]] and a [Markdown link](/).
 
-**... into this:**
+... into this:
 
 This is a test with [Testlink 1](/testlink1) and a [Testlink 2](/testlink2) and a [Markdown link](/).
 
-**... using this code:**
+... with just this code:
 
 ```
 {% assign contentarray = page.content | split:'[[' %}
@@ -41,5 +41,4 @@ This is a test with [Testlink 1](/testlink1) and a [Testlink 2](/testlink2) and 
 
 {{ replacedcontent | markdownify }}
 ```
-        
-**Happy coding!**
+Happy coding!
